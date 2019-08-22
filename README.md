@@ -437,6 +437,8 @@
 - Creator组件布局如下：
 ![](https://mmbiz.qpic.cn/mmbiz_png/cXXCaLR8H4WbibUhRcsbcicm8NY1SqZjiaptkQhOjyPXbxTibqAHmibzSzbZAJVicI8PQiaspPic7dbpXvLLGhbwLg20Og/0?wx_fmt=png)
 
+英语版教程链接：https://github.com/Jno1995/pushBox-en
+
 # Talk is cheap. Show me the code. #
 > 需要代码的，请关注微信公众号 “**一枚小工**” ，输入 “**推箱子**” 获取源码，有任何问题，欢迎留言。
 > ![](https://mmbiz.qpic.cn/mmbiz_png/cXXCaLR8H4VFdZJCia0n7tSCG8L75GCU9HhhcmZr8TmFugZhwiajBZhh2nRWBaUyCFy8wVX1CXWMPejZNUPNatKw/0?wx_fmt=png)
